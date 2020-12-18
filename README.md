@@ -14,9 +14,9 @@ The package contains 2 compacted files:
 - 5 high dimensional
 
 they are organized as follows: each archive has 3 files:
-x_[name of file] - inputs
-y_[name of file] - outputs
-emg_[name of file] - code in python
+- x_[name of file] - inputs
+- y_[name of file] - outputs
+- emg_[name of file] - code in python
 
 In python codes, it is worth mentioning that the variable "flag" defines which of the eMG, SM-eMG or ESM-eMG models will be applied.
 
