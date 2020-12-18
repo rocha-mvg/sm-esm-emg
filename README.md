@@ -4,16 +4,16 @@ Codes related to the paper "Power Transformers Thermal Modeling using an Enhance
 
 The package contains 2 compacted files:
 
-1 Transformers
+1 Transformers:
 - 1 trafo d2
 - 2 trafo d3
 
-2 Benchmarks
+2 Benchmarks:
 - 3 mackey glass
 - 4 non linear
 - 5 high dimensional
 
-they are organized as follows: each archive has 3 files:
+They are organized as follows: each archive has 3 files:
 - x_[name of file] - inputs
 - y_[name of file] - outputs
 - emg_[name of file] - code in python
